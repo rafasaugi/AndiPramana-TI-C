@@ -14,7 +14,10 @@ let grass9;
 
 //Animation Variables
 let playerSprite = "images"
+<<<<<<< Updated upstream
 let imagesScale = 0.4;
+=======
+>>>>>>> Stashed changes
 
 function Component(width, height, source, x, y, type, angle = 0) {
     this.type = type;
