@@ -1,5 +1,5 @@
 canvas{
-    border: 10px solid black;
+    border: 10px solid white;
     border-radius: 5px;
     padding-left: 0;
     padding-right: 0;
@@ -13,7 +13,6 @@ canvas{
     color: white;
     text-align: center;
     font-size: 80px;
-    background-color: #F86624;
     height: 120px;
     border-radius: 15px;
 }
@@ -73,7 +72,7 @@ body{
 
 html, body{
     height:100%;
-    background-color: #F9C80E !important;
+    background-color: rgb(26, 25, 25) !important;
     margin: 0;
 }
 
